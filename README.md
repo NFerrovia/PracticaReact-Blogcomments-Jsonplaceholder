@@ -1,5 +1,9 @@
 Documentación:
 
+REACT:
+
+https://es.reactjs.org/docs/getting-started.html
+
 REDUX
 
 https://es.redux.js.org/
