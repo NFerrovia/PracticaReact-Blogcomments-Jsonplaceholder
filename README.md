@@ -1,7 +1,3 @@
-Práctica con el objetivo de la creación de una zona de comentarios en una página de Blogs utilizando Redux para la actualización de la información y Thunk como Middleware.
-
-Se utiliza Lodash para el fácil manejo de Arrays, Semantic UI para el styling, Jsonplaceholder para la información ficticia y Axios para hacer las solicitudes a la misma.
-
 Documentación:
 
 REDUX
